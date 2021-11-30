@@ -1,0 +1,12 @@
+/Users/shbov/Desktop/ClassLibrary/Seminar/bin/Debug/net5.0/Seminar.deps.json
+/Users/shbov/Desktop/ClassLibrary/Seminar/bin/Debug/net5.0/Seminar.dll
+/Users/shbov/Desktop/ClassLibrary/Seminar/bin/Debug/net5.0/ref/Seminar.dll
+/Users/shbov/Desktop/ClassLibrary/Seminar/bin/Debug/net5.0/Seminar.pdb
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/Seminar.csproj.AssemblyReference.cache
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/Seminar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfoInputs.cache
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/Seminar.AssemblyInfo.cs
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/Seminar.csproj.CoreCompileInputs.cache
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/Seminar.dll
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/ref/Seminar.dll
+/Users/shbov/Desktop/ClassLibrary/Seminar/obj/Debug/net5.0/Seminar.pdb
